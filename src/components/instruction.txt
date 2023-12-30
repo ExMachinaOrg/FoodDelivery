@@ -1,0 +1,7 @@
+Instruction
+
+1. Inside the component folder create a folder for the assigned task.
+   e.g.
+   Header
+2. Inside the folder create the jsx file named index. this is were you write your code for the component.
+3. Create additional files like style.css or style.js if needed.
